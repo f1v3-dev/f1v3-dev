@@ -18,6 +18,6 @@ I'm a **computer engineering student !**
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=f1v3-dev&show_icons=true)
 
-(https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github.com/f1v3-dev/github-readme-stats)
