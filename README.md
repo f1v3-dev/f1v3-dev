@@ -8,7 +8,7 @@
 
 👋 Hello, I'm SEUNG JO
 
-I'm a **computer engineering student ! **
+I'm a **computer engineering student !**
 
 ---
 
