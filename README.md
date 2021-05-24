@@ -6,7 +6,7 @@
 
 
 
-👋 Hello, I'm SEUNG JO
+👋 Hello, I'm SEUNGJO
 
 I'm a computer engineering student.
 
