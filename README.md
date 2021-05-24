@@ -21,3 +21,5 @@ I'm a **computer engineering student !**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=f1v3-dev&show_icons=true)
 
 ![Github Stats](https://github.com/f1v3-dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNGJO&langs_count=6&layout=compact&theme=dark)](https://github.com/f1v3-dev/jogilsang)﻿
