@@ -8,12 +8,12 @@
 
 👋 Hello, I'm SEUNGJO
 
-I'm a computer engineering student.
+I'm a computer science student.
 
 ---
 
-### Things to study
+### 🎈Tech Stack
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=black"/>
 
 ---
