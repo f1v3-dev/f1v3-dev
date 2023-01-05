@@ -10,10 +10,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seungjo)](https://solved.ac/seungjo/)
 
+---
 
-### 🎈Tech Stack
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
+### 🎈 Skills
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
 
